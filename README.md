@@ -1,6 +1,8 @@
 # nlp_word_screening
 
 이력서 데이터셋을 사용하여 머신러닝 파이프라인을 구축하고 실행
+데이터셋 : 캐글 UpdatedResumeDataSet 활용
+(https://www.kaggle.com/datasets/dhainjeamita/updatedresumedataset?resource=download)
 
 1. 데이터 로딩 및 이해:
   pandas를 사용하여 'UpdatedResumeDataSet.csv' 파일을 읽고, 데이터프레임에 저장

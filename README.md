@@ -4,6 +4,16 @@
 
 🎱 데이터셋 : Kaggle [UpdatedResumeDataSet](https://www.kaggle.com/datasets/dhainjeamita/updatedresumedataset?resource=download) 활용
 
+🧰 라이브러리 : 
+* numpy : 효율적인 수치 계산 및 배열 조작
+* pandas : 데이터셋을 효과적으로 다루기 위해 사용
+* matplotlib : 데이터 분포를 시각화
+* sklearn(scikit-learn) : Naive bayes, k-최근접 이웃 classifier 및 기타 머신러닝 모델을 사용하여 이력서 분류를 수행
+* seaborn(matplotlib 기반) : 데이터 분포를 시각화
+* nltk : 자연어 처리를 위한 라이브러리, 텍스트 데이터를 다루고 분석. 텍스트 데이터의 전처리를 위해 사용
+* wordcloud : 텍스트 데이터에서 단어 빈도를 시각적으로 나타냄. 이력서의 단어 빈도를 시각화
+* scipy : 과학 및 공학 계산. 희소 행렬을 다루기 위한 hstack 함수를 사용
+
 
 
 ---

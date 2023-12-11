@@ -7,16 +7,13 @@
 (https://www.kaggle.com/datasets/dhainjeamita/updatedresumedataset?resource=download)
 
 1. 데이터 로딩 및 이해:
-
-  - pandas를 사용하여 'UpdatedResumeDataSet.csv' 파일을 읽고, 데이터프레임에 저장
-  - 'cleaned_resume'이라는 새 열을 추가하고 초기값은 빈 문자열로 설정
-  - 처음 5개 행을 출력하여 데이터를 확인
+- pandas를 사용하여 'UpdatedResumeDataSet.csv' 파일을 읽고, 데이터프레임에 저장
+- 'cleaned_resume'이라는 새 열을 추가하고 초기값은 빈 문자열로 설정
+- 처음 5개 행을 출력하여 데이터를 확인
   
 2. 이력서 카테고리 분석:
-
-  고유한 이력서 카테고리를 출력하고, 해당 카테고리의 수를 출력
-
-  각 카테고리별로 데이터의 수를 시각화
+- 고유한 이력서 카테고리를 출력하고, 해당 카테고리의 수를 출력
+- 각 카테고리별로 데이터의 수를 시각화
 
 3. 텍스트 데이터 전처리:
 
